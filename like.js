@@ -1,4 +1,4 @@
-// // Like button functionality
+
 document.addEventListener("DOMContentLoaded", () => {
     document.querySelectorAll(".like-btn").forEach(btn => {
         btn.onclick = () => {
